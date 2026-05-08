@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Biometric sensitive files
+embeddings/secret.key
+embeddings/*.enc
+*.db
+captured_user.jpg
+
+# Landmark model (too large for GitHub)
+shape_predictor_68_face_landmarks.dat
