@@ -61,7 +61,7 @@ biometric-forensic-access-control/
 **Step 1: Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/biometric-forensic-access-control.git
+git clone https://github.com/Eliwnahp04/biometric-forensic-access-control
 cd biometric-forensic-access-control
 ```
 
